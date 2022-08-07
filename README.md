@@ -1,4 +1,3 @@
 JumpIfZero (JZ)<br>
 
-JumpIfZero external plugins discord
-https://discord.gg/9Txtv7hzSn
+If you need something, hit me up in ticket at https://discord.gg/9Txtv7hzSn
